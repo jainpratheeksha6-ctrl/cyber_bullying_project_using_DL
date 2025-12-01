@@ -1,0 +1,13 @@
+flask
+cs50
+numpy
+pandas
+nltk
+tensorflow
+keras
+h5py
+opencv-python
+pillow
+pytesseract
+telepot
+googletrans==4.0.0-rc1
